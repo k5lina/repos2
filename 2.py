@@ -7,3 +7,4 @@ def f(n):
     return a
 
 print(f(int(input())))
+#Напишу-ка я комментарий
